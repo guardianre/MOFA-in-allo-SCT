@@ -1,3 +1,6 @@
 [submodule "virome"]
 	path = virome
 	url = https://github.com/rujinlong/gvhdvirome.git
+[submodule "MOFA"]
+	path = MOFA
+	url = https://github.com/rujinlong/gvhd_MOFA.git
