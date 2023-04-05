@@ -4,3 +4,6 @@
 [submodule "MOFA"]
 	path = MOFA
 	url = https://github.com/rujinlong/gvhd_MOFA.git
+[submodule "16S_ITS_WSM"]
+	path = 16S_ITS_WSM
+	url = https://github.com/ahiergeist/gvhd_16S_ITS_WSM.git
